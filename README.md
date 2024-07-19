@@ -1,8 +1,10 @@
-<h2 align="center">^_^ Welcome! take a cup of coffee (∩^o^)⊃☕~~</h2>
+
+
+<h1 align="center">^_^ Welcome! take a cup of coffee (∩^o^)⊃☕~~</h1>
 
 ###
 
-<h4 align="center">♡*.✧ Heyoo! I'm Evelyn, a Brazilian  tech enthusiast and a classical art lover! (❁ᴗ͈ˬᴗ͈) ༉‧</h4>
+<h3 align="center">♡*.✧ Heyoo! I'm Evelyn, a Brazilian  tech enthusiast and a classical art and music lover! (❁ᴗ͈ˬᴗ͈) ༉‧</h3>
 
 ###
 
@@ -30,11 +32,11 @@
 
 ###
 
-<h3 align="left">I'm currently learning,ˋ°•*⁀➷</h3>
+<h3 align="center">I'm currently learning,ˋ°•*⁀➷</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -50,11 +52,11 @@
 
 ###
 
-<h3 align="left">other places to find and contact me ,ˋ°•*⁀➷</h3>
+<h3 align="center">other places to find and contact me ,ˋ°•*⁀➷</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/evelyn-benitez-61a924319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -106,14 +108,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=evelyn-benitez.evelyn-benitez&left_color=indigo&right_color=darkviolet&left_text=Profile%20Views%20%E2%82%8A%CB%9A%CA%9A%20%E1%97%A2%E2%82%8A%CB%9A%E2%9C%A7%20%EF%BE%9F."  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/smellsofbookncoffeegirl">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=smellsofbookncoffeegirl&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
