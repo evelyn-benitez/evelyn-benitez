@@ -1,5 +1,3 @@
-
-
 <h1 align="center">^_^ Welcome! take a cup of coffee (∩^o^)⊃☕~~</h1>
 
 ###
@@ -71,7 +69,7 @@
 ###
 
 <div align="center">
-  <img height="40" src="https://64.media.tumblr.com/a853927a912c802816210958d27c1a0c/b35f0b146e0351a5-53/s250x400/f748dbf208d52af8158946f45df3b17c07baec58.gifv"  />
+  <img height="30" src="https://64.media.tumblr.com/0b4f2eeb26a19ca8a86f31f19d5d78b1/53c2f2c78928882c-d4/s250x400/a05cd1c6fdd67658b567b6866ed374b81edce795.gifv"  />
 </div>
 
 ###
@@ -81,12 +79,6 @@
 ###
 
 <h4 align="center">A little more about me >><br><br>I like to spend my time reading, stimulating my curiosity and experimenting with tools I find online; and organize things ( you can see that I like to decorate a little bit too :P )<br><br><br>♡.﹀﹀﹀﹀.♡</h4>
-
-###
-
-<div align="center">
-  <img height="30" src="https://64.media.tumblr.com/0b4f2eeb26a19ca8a86f31f19d5d78b1/53c2f2c78928882c-d4/s250x400/a05cd1c6fdd67658b567b6866ed374b81edce795.gifv"  />
-</div>
 
 ###
 
@@ -102,12 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=evelyn-benitez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=evelyn-benitez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelyn-benitez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=evelyn-benitez.evelyn-benitez&left_color=indigo&right_color=darkviolet&left_text=Profile%20Views%20%E2%82%8A%CB%9A%CA%9A%20%E1%97%A2%E2%82%8A%CB%9A%E2%9C%A7%20%EF%BE%9F."  />
 </div>
 
 ###
