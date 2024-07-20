@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="center">︵‿︵‿୨♡୧‿︵‿︵<br>I'm currently working on web development <br>projects in a <br>face-to-face course, <br>you will see Front End and Back End projects in my repositories here!<br>︵‿︵‿୨♡୧‿︵‿︵</h3>
+<h3 align="center">︵‿︵‿୨♡୧‿︵‿︵<br>For now I'm studying and working on web development <br>projects,<br>you will see Front End and Back End projects in my repositories here!<br>︵‿︵‿୨♡୧‿︵‿︵</h3>
 
 ###
 
@@ -26,11 +26,7 @@
 
 ###
 
-<img align="right" height="200" src="https://64.media.tumblr.com/486c0d6af2329a8a7d580baf51f2d8fc/bdb145a9bff6639b-13/s250x400/5425f99519a27491df8deb9f0ff72980d0f4ded4.gifv"  />
-
-###
-
-<h3 align="center">I'm currently learning,ˋ°•*⁀➷</h3>
+<h3 align="center">Currently learning ˋ°•*⁀➷</h3>
 
 ###
 
@@ -50,7 +46,7 @@
 
 ###
 
-<h3 align="center">other places to find and contact me ,ˋ°•*⁀➷</h3>
+<h3 align="center">Find me in ˋ°•*⁀➷</h3>
 
 ###
 
@@ -74,16 +70,16 @@
 
 ###
 
-<img align="left" height="200" src="https://64.media.tumblr.com/edeadd428ad8f9cbead19d57c0858396/bdb145a9bff6639b-a1/s250x400/4da3fda667908f5176a8dfbe4d7d5243a0a387cd.gifv"  />
+<img align="left" height="200" src="https://64.media.tumblr.com/486c0d6af2329a8a7d580baf51f2d8fc/bdb145a9bff6639b-13/s250x400/5425f99519a27491df8deb9f0ff72980d0f4ded4.gifv"  />
 
 ###
 
-<h4 align="center">A little more about me >><br><br>I like to spend my time reading, stimulating my curiosity and experimenting with tools I find online; and organize things ( you can see that I like to decorate a little bit too :P )<br><br><br>♡.﹀﹀﹀﹀.♡</h4>
+<h4 align="center">A little more about me >><br><br>I like to spend my time reading, stimulating my curiosity, creativity, experimenting with tools I find online and organize things ( you can see that I like to decorate a little bit too )<br><br><br>♡.﹀﹀﹀﹀.♡</h4>
 
 ###
 
-<h3 align="center">GitHub stuff</h3>
-
+<h3 align="center">GitHub Stats</h3>
+                   
 ###
 
 <img src="https://raw.githubusercontent.com/evelyn-benitez/evelyn-benitez/output/snake.svg" alt="Snake animation" />
@@ -91,9 +87,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evelyn-benitez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=evelyn-benitez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelyn-benitez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=evelyn-benitez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="155" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=evelyn-benitez&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelyn-benitez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="134" alt="languages graph"  />
 </div>
 
 ###
