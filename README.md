@@ -1,32 +1,14 @@
-<h1 align="center">^_^ Welcome! take a cup of coffee (∩^o^)⊃☕~~</h1>
-
-###
-
-<h3 align="center">♡*.✧ Heyoo! I'm Evelyn, a Brazilian  tech enthusiast and a classical art and music lover! (❁ᴗ͈ˬᴗ͈) ༉‧</h3>
+<h1 align="center">˗ˏˋ꒰ 🍒 ꒱ Welcome! I'm Evelyn ₊˚ʚ ᗢ₊˚✧ ﾟ.</h1>
 
 ###
 
 <div align="center">
-  <img height="47" src="https://64.media.tumblr.com/0144c139fbd2b3b8739497389ff16b46/f46461ee0f2953e2-1d/s500x750/3758b33bb2eac9d88f27218fbf874d021dd4b820.gifv"  />
+  <img height="290" src="https://64.media.tumblr.com/3fe0917eb567bab3be4d00ab3b1d5b8e/7aaeab366e031b80-ed/s500x750/4e96304133d6f1a3c037d83f99bbe9467c8d87c7.gifv"  />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://64.media.tumblr.com/f0bc5c3a6adf9491502ec0b63139631b/bdb145a9bff6639b-07/s250x400/df708af016d70ef5c8a36b509cc03486a18091da.gifv"  />
-
-###
-
-<h3 align="center">︵‿︵‿୨♡୧‿︵‿︵<br>For now I'm studying and working on web development <br>projects,<br>you will see Front End and Back End projects in my repositories here!<br>︵‿︵‿୨♡୧‿︵‿︵</h3>
-
-###
-
-<div align="center">
-  <img height="" src="https://64.media.tumblr.com/226223317f3378b35a81daf56de929fa/cf2be94e8018e3b3-d5/s500x750/5d893f01afaedc96795da2daa92941c46b40e9d3.gifv"  />
-</div>
-
-###
-
-<h3 align="center">Currently learning ˋ°•*⁀➷</h3>
+<h3 align="center">︵‿︵‿୨♡୧‿︵‿︵<br><br>I'm a tech and AI entusiast <br>and web development student. I'm working in<br>projects using these languages ↓</h3>
 
 ###
 
@@ -46,7 +28,11 @@
 
 ###
 
-<h3 align="center">Find me in ˋ°•*⁀➷</h3>
+<h3 align="center">︵‿︵‿୨♡୧‿︵‿︵</h3>
+
+###
+
+<h3 align="center">↶*ೃ✧ Find me here ˚. ❃ ↷ ˊ-</h3>
 
 ###
 
@@ -54,46 +40,36 @@
   <a href="https://www.linkedin.com/in/evelyn-benitez-61a924319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/smellofcoffeenbooksgirl?igsh=cG8yYjd0MGl4YWxi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
   <a href="heejinevelyn@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+  <a href="https://www.instagram.com/smellofcoffeenbooksgirl?igsh=cG8yYjd0MGl4YWxi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img height="30" src="https://64.media.tumblr.com/0b4f2eeb26a19ca8a86f31f19d5d78b1/53c2f2c78928882c-d4/s250x400/a05cd1c6fdd67658b567b6866ed374b81edce795.gifv"  />
+  <img height="" src="https://64.media.tumblr.com/c99c00feadba2b7a021eeabf1c50e54e/9b46597a9334c237-3c/s100x200/3a1ecab369fa54d1f3ac51e538ff3e12ae9b9378.gifv"  />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://64.media.tumblr.com/486c0d6af2329a8a7d580baf51f2d8fc/bdb145a9bff6639b-13/s250x400/5425f99519a27491df8deb9f0ff72980d0f4ded4.gifv"  />
-
-###
-
-<h4 align="center">A little more about me >><br><br>I like to spend my time reading, stimulating my curiosity, creativity, experimenting with tools I find online and organize things ( you can see that I like to decorate a little bit too )<br><br><br>♡.﹀﹀﹀﹀.♡</h4>
-
-###
-
-<h3 align="center">GitHub Stats</h3>
-                   
-###
+<h3 align="center">- ', GitHub Stats ꒱ ↷</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evelyn-benitez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="155" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=evelyn-benitez&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="147" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelyn-benitez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="134" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=evelyn-benitez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=evelyn-benitez&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evelyn-benitez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="47" src="https://64.media.tumblr.com/942e5a452e0cc6a405c5ddd685b09859/a8a340a504c4b737-d1/s500x750/f2ae5ff7acd11b8b90df9827d3b1b4997cf84b32.gifv"  />
+  <img height="100" src="https://64.media.tumblr.com/5dfa3a48a131a2e6d3e25ebfb5b62262/d338c5a9b790fd70-3d/s250x400/aa9d24d70df9858f985c454d207b8b3cdc4cf12e.gifv"  />
 </div>
 
 ###
